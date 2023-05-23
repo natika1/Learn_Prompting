@@ -25,6 +25,7 @@ async function createConfig() {
         "fr",
         "ja",
         "pt",
+        "pl",
         "zh-Hans",
         "ko",
         "si",
