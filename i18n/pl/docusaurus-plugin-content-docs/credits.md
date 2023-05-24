@@ -2,7 +2,7 @@
 sidebar_position: 20000
 ---
 
-# ✨ Kredyty
+# ✨ Wasz wkład
 
 Oto rosnąca lista osób, które walnie przyczyniły się do powstania tego kursu:
 

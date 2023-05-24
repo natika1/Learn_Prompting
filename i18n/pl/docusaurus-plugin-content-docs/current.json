@@ -1,69 +1,69 @@
 {
   "sidebar.tutorialSidebar.category.😃 Basics": {
-    "message": "😃 Grundlagen"
+    "message": "😃 Podstawy"
   },
   "sidebar.tutorialSidebar.category.😃 Basics.link.generated-index.description": {
-    "message": "Einführung in PE und einfache PE-Techniken."
+    "message": "Wprowadzenie i proste techinki inżynierii zapytań."
   },
   "sidebar.tutorialSidebar.category.💼 Basic Applications": {
-    "message": "💼 Grundlegende Anwendungen"
+    "message": "💼 Podstawowe zastosowania"
   },
   "sidebar.tutorialSidebar.category.🧙‍♂️ Intermediate": {
-    "message": "🧙‍♂️ Intermediäres"
+    "message": "🧙‍♂️ Zaawansowane"
   },
   "sidebar.tutorialSidebar.category.🧙‍♂️ Intermediate.link.generated-index.description": {
-    "message": " "
+    "message": "🧙‍♂️ Zaawansowane metody towrzenia zpaytań"
   },
   "sidebar.tutorialSidebar.category.🧪 Applied Prompting": {
-    "message": "🧪 Angewandtes Promting"
+    "message": "🧪 Zapytania w praktyce"
   },
   "sidebar.tutorialSidebar.category.🧪 Applied Prompting.link.generated-index.description": {
     "message": " "
   },
   "sidebar.tutorialSidebar.category.🚀 Advanced Applications": {
-    "message": "🚀 Fortgeschrittene Anwendungen"
+    "message": "🚀 Zaawansowane zastosowania"
   },
   "sidebar.tutorialSidebar.category.🚀 Advanced Applications.link.generated-index.description": {
     "message": " "
   },
   "sidebar.tutorialSidebar.category.⚖️ Reliability": {
-    "message": "⚖️ Zuverlässigkeit"
+    "message": "⚖️ Niezawodność"
   },
   "sidebar.tutorialSidebar.category.⚖️ Reliability.link.generated-index.description": {
     "message": " "
   },
   "sidebar.tutorialSidebar.category.🖼️ Image Prompting": {
-    "message": "🖼️ Bild Promting"
+    "message": "🖼️ Obrazy"
   },
   "sidebar.tutorialSidebar.category.🖼️ Image Prompting.link.generated-index.description": {
     "message": " "
   },
   "sidebar.tutorialSidebar.category.🔓 Prompt Hacking": {
-    "message": "🔓 Promt Hacking"
+    "message": "🔓 Hakowanie promptów"
   },
   "sidebar.tutorialSidebar.category.🔓 Prompt Hacking.link.generated-index.description": {
     "message": " "
   },
   "sidebar.tutorialSidebar.category.🔨 Tooling": {
-    "message": "🔨 Werkzeuge"
+    "message": "🔨 Narzędzia"
   },
   "sidebar.tutorialSidebar.category.🔨 Tooling.link.generated-index.description": {
     "message": " "
   },
   "sidebar.tutorialSidebar.category.Prompt Engineering IDEs": {
-    "message": " Promt Engineering IDEs"
+    "message": " Środowiska Inżynierii Zapytań (IDE)"
   },
   "sidebar.tutorialSidebar.category.Prompt Engineering IDEs.link.generated-index.description": {
     "message": " "
   },
   "sidebar.tutorialSidebar.category.💪 Prompt Tuning": {
-    "message": "💪 Promt Tuning"
+    "message": "💪 Tuning zapytań"
   },
   "sidebar.tutorialSidebar.category.💪 Prompt Tuning.link.generated-index.description": {
     "message": " "
   },
   "sidebar.tutorialSidebar.category.🎲 Miscellaneous": {
-    "message": "🎲 Diverses"
+    "message": "🎲 Różności"
   },
   "sidebar.tutorialSidebar.category.🎲 Miscellaneous.link.generated-index.description": {
     "message": " "

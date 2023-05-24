@@ -3,11 +3,11 @@ sidebar_position: 1
 ---
 # Witamy
 
-Witamy na naszym kursie wprowadzającym do inżynierii promptu!
+Witaj w naszym kursie wprowadzającym do inżynierii zapytań! 
 
-Prompt engineering (PE) to proces **komunikowania się z SI w celu osiągnięcia pożądanych rezultatów**. W związku z szybkim rozwojem sztucznej inteligencji (AI), opanowanie inżynierii szybkiego reagowania staje się coraz bardziej wartościową i pożądaną umiejętnością.
+Inżynieria zapytań (Inżynieria Promptów) jest to **proces skutecznej komunikacji z modelami Sztucznej Inteligencji (SI) w taki sposób, aby osiągnąć zamierzone cele**. Rozwój metod SI nieustannie postępuje w błyskawicznym tempie, w związku z tym tworzenie skutecznych zapytań staje się szczególnie cenną i praktyczną umiejętnością. Techniki tworzenia zapytań mają szerokie pole zastosowań, ułatwiając produktywne działanie zarówno w codziennym życiu, jak i w tworzeniu innowacyjnych rozwiązań. 
 
-Ten kurs jest dostosowany do **początkujących**, co czyni go idealnym punktem wyjścia, jeśli jesteś nowy w AI i PE. Jednak nawet jeśli nie jesteś początkujący, nadal znajdziesz cenne spostrzeżenia w tym kursie. Ten kurs jest **najbardziej kompleksowym** kursem inżynierii podpowiedzi dostępnym na rynku, a jego zawartość obejmuje zarówno wprowadzenie do AI, jak i zaawansowane techniki PE.
+Ten kurs został stworzony z myślą o **początkujących**, co czyni go idealnym miejscem na rozpoczęcie podróży w świat SI oraz IZ. Jeśli znasz już metody SI i posługiwanie się nimi nie jest Ci obce, na pewno będziesz w stanie poszerzyć swoją wiedzę oraz zyskać cenne spostrzeżenia przerabiając ten materiał. Obecnie kurs jest **najbardziej merytorycznym** dostępnym kursem o tworzeniu zapytań, zagadnienia w nim zawarte obejmują zarówno wstęp do SI a także zaawansowane techniki IZ.
 
 
 # Ethos i Filozofia
