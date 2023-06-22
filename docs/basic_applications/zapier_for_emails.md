@@ -64,8 +64,8 @@ Make sure to have a [Zapier account](https://zapier.com/sign-up) (you can get a 
     <img src={Step1} style={{width: "500px"}} />
         </div>
       </div>
-    </details>
-    <details>
+</details>
+<details>
       <summary>
        Step 2: Formatter for E-mail content. 
       </summary>
@@ -74,8 +74,8 @@ Make sure to have a [Zapier account](https://zapier.com/sign-up) (you can get a 
   <img src={Step2} style={{width: "500px"}} />
 </div>
       </div>
-    </details>
-    <details>
+</details>
+<details>
       <summary>
         Step 3: Prompting the Email content
         <br/>
@@ -85,8 +85,8 @@ Make sure to have a [Zapier account](https://zapier.com/sign-up) (you can get a 
   <img src={Step3} style={{width: "500px"}} />
 </div>
       </div>
-    </details>
-    <details>
+</details>
+<details>
       <summary>
         Step 4: Adding it to a database
       </summary>
